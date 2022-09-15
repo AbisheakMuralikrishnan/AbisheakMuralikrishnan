@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://medium.com/@abisheaksabari/theres-a-renewed-interest-in-reflecting-on-what-can-and-should-be-done-with-data-24e8f842dc95
+To know more about me please visit my website : https://site-8787434-9958-3179.mystrikingly.com
 
 
 
