@@ -1,5 +1,5 @@
 ### Hi there 👋
-To know more about me please visit my website : https://site-8787434-9958-3179.mystrikingly.com
+To know more about me please visit my website : https://tinyurl.com/abisheaksabari
 
 
 
