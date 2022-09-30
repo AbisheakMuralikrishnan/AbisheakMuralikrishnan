@@ -9,7 +9,7 @@ To know more about me please visit my website : https://tinyurl.com/abisheaksaba
  
  🤔 I’m looking for help with Machine Learning algorithms.
  
- 💬 Ask me about Data
+ 💬 Ask me about Data.
  
  📫 How to reach me: abisheaksabari@gmail.com
 
