@@ -1,7 +1,9 @@
 ### Hi there 👋
-To know more about me please visit my website : https://tinyurl.com/abisheaksabari
+To know more about me please visit my website : https://site-abisheak.mystrikingly.com/
 
-🔭 I’m currently working on a House rent Prediction model.
+
+
+🔭 I’m currently working on Integration of Tamil Grammar into python
  
  🌱 I’m currently learning Data Science and Machine Learning.
  
@@ -9,7 +11,7 @@ To know more about me please visit my website : https://tinyurl.com/abisheaksaba
  
  🤔 I’m looking for help with Machine Learning algorithms.
  
- 💬 Ask me about Data and its manipulation.
+ 💬 Ask me about Data Google Developers Group.
  
  📫 How to reach me: abisheaksabari@gmail.com
 
