@@ -11,7 +11,7 @@ To know more about me please visit my website : https://site-abisheak.mystriking
  
  🤔 I’m looking for help with Machine Learning algorithms.
  
- 💬 Ask me about Data Google Developers Group.
+ 💬 Ask me about Data Science Google Developers Group.
  
  📫 How to reach me: abisheaksabari@gmail.com
 
