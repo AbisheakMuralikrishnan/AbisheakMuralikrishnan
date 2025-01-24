@@ -2,15 +2,15 @@
 To know more about me please visit my website : [https://site-abisheak.mystrikingly.com/](https://abisheak.mystrikingly.com/)
 
 
-⚡ Organizer @ Google Developers Group Salem.
+⚡ Ex-Organizer @ Google Developers Group Salem.
 
-🔭 I’m currently working on a Stock Prediction model.
+🔭 I’m currently working on a UI/UX based project.
  
- 🌱 I’m currently learning new things on Data Science and Machine Learning.
+ 🌱 I’m currently learning new things on UI/UX, Flutter and Machine Learning.
  
- 👯 I’m looking to collaborate on projects with wide idea spectrum related to Meachine learning.
+ 👯 I’m looking to collaborate on projects with wide idea spectrum related to Data engineering and User Experience Design.
  
- 🤔 I’m looking for help with Machine Learning algorithms.
+ 🤔 I’m looking for help with Machine Learning algorithms and UI/UX Concepts.
  
  💬 Ask me about Data Science, Google Developers Group(Salem, Chennai, Banglore).
  
